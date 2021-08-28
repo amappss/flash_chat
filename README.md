@@ -7,7 +7,7 @@
 A messaging app where users can sign up and log in to chat.
 
 
-## What you will learn
+##Main functionality
 
 - Incorporate Firebase.
 - Firebase authentication.
